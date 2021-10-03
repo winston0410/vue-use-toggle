@@ -6,7 +6,8 @@
     "type-check": "tsc"
   },
   "dependencies": {
-    "vue": "^3.0.11"
+    "vue": "^3.0.11",
+    "vue-use-toggle": "git+https://github.com/winston0410/vue-use-toggle.git"
   },
   "devDependencies": {
     "@snowpack/plugin-dotenv": "^2.1.0",
